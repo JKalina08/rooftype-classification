@@ -5,6 +5,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ## VŠP Jihlava
-#### Rozpracování tématu pro zpracování bakalířské práce.
-Autor: Jiří Kalina
-Téma: Použití technik Deep-Learningu k detekci objektů.
+#### Rozpracování možného tématu bakalářské práce.
+- Autor: Jiří Kalina  
+- Téma: Použití technik Deep-Learningu k detekci objektů. 
+- Soubor: `roofs-pytorch.ipynb` *interaktivní notebook*
