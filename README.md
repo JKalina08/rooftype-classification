@@ -4,7 +4,8 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-## VŠP Jihlava ![](samp_imgs/vspj.png "VSPJ")
+## VŠP Jihlava   
+![](samp_imgs/vspj.png "VSPJ")  
 #### Rozpracování možného tématu bakalářské práce.
 - Autor: Jiří Kalina  
 - Téma: Použití technik Deep-Learningu k detekci objektů. 
